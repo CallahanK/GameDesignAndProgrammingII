@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="80" height="60" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="megacommando1_all" tilewidth="16" tileheight="16">
+  <image source="megacommando1_all.png" trans="000000" width="1024" height="1280"/>
+ </tileset>
+ <layer name="rewards" width="80" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt2LkRACAIBEBjq7T/KgxNTAzEh90KYObApxQgk1ZPV3BW9v5ZE5EXmQSi2TsAAMBu3h0wmAdeJ8PAbewlAAAAAGay/BvpE4DfOQMAAPidOy/MdcMjBc0=
+  </data>
+ </layer>
+ <layer name="platforms" width="80" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztmttOAjEQhpcbD7jLY6GJh3fSKOLZS15HL0AU8JWcJk5Yyrbbw3Q7hX7JJG4CZvdrO3+3OukXxQQqY8ekv1kZO3z9VVVRDCr6+0oFX3+X4O4q+zP2Ny2LYgb1BTWH+i7D3yMHmp77p8z9z5Wj/zWXur9beI47qBHUPdQY6gHqEeoJ6hnqBeoV6o2wzwh/omR/OC8XUEuoVULrc9VxH27ylzJd+xNkf2tmpf364+4vVn8zhbs/pG1uxVi7Aht/Mfd9u+AvJrH9pb5/ju1PRrV/lrPnN+A6pcyGGP52af8Xo/9lf/5kf+2osmNhkB/yd7nCJT8o8c0Hzu8eXeUH1bzoD2h+DyXZnz+yP+r1kLq/th6S558bofJDHi+dP8750EZq+UGBbryWDnuzJn+qsX939MDJXwhU82/KLD9i0dZfZH/CG9Y19Owbz76duj8VJvnxAe4+HfylnAummOQHdS8MBXUumGKSv/U+eMBsD8YBXf/DQrK/bWz2f3V/oda27qwt5Fp0RfYnHNlWKHDuU+2lQsD5/Dn782Pf/On6lsv/we2bP8FwoL+uswt77Jj+Qny/a7I/P0L5w7OH7M8OfF48e/D1x/39m9IfRR5wm39t70O5/+k5gLE+rNb30oefT6BKg/M/F6j8ufZPaobg6bTmT3Berd9dufpz7Z8haXrXT2H/zCVDms5OYs+/ts9Tzb9Q52Kxzw+68oc5IM7cj6vtHHAllj9VPoTyhzlwVvMlcuAiUX+qfAjhr/73JTkDxLXPGUWI/TN1YX5Q5EiTPx90/tp8NI2Z7Xzqav0iXfpDRgP9dZ1Y/kzzVeXPNZ9t/GHP1/mT768rf6b5qvLnms9N/ua9zc+gL+z5HP2Z5qvKn0s+j3vb/nLlilF/H8YtXg==
+  </data>
+ </layer>
+</map>
